@@ -1,0 +1,23 @@
+{
+  "name": "football-middleware-authentication-app",
+  "version": "1.0.0",
+  "description": "football authentication middleware for app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohsenxad/football-middleware-authentication-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohsenxad/football-middleware-authentication-app/issues"
+  },
+  "homepage": "https://github.com/mohsenxad/football-middleware-authentication-app#readme",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
+}
