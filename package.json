@@ -1,6 +1,6 @@
 {
   "name": "football-middleware-authentication-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "football authentication middleware for app",
   "main": "index.js",
   "scripts": {
